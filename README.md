@@ -1,10 +1,10 @@
-# 🌿 Plant Pathology Classification - Celebal Summer Internship 2025
+# 🌿 Plant Pathology Classification (Final Project) - Celebal Summer Internship 2025 
 
 ![Plant Pathology Banner](https://raw.githubusercontent.com/devang-bhardwaj/Celebal_Week_4_Assingment/main/images/plant_pathology_banner.jpg)
 
 ## 📋 Project Overview
 
-This project was developed as the final assignment for the **Celebal Technologies Summer Internship Programme 2025**. It implements an advanced solution for plant disease classification using both traditional machine learning and deep learning approaches. The model classifies apple leaf images into four distinct categories based on their health conditions, using transfer learning with a fine-tuned ResNet50 architecture.
+This project was developed as the final project for the **Celebal Technologies Summer Internship Programme 2025**. It implements an advanced solution for plant disease classification using both traditional machine learning and deep learning approaches. The model classifies apple leaf images into four distinct categories based on their health conditions, using transfer learning with a fine-tuned ResNet50 architecture.
 
 ### 🎯 Project Assignment & Objectives
 
