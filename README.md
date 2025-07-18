@@ -1,6 +1,6 @@
 # 🌿 Plant Pathology Classification - Celebal Summer Internship 2025
 
-![Plant Pathology Banner](https://raw.githubusercontent.com/devang-bhardwaj/Celebal_Week_7_Assingment/main/images/plant_pathology_banner.jpg)
+![Plant Pathology Banner](https://raw.githubusercontent.com/devang-bhardwaj/Celebal_Week_4_Assingment/main/images/plant_pathology_banner.jpg)
 
 ## 📋 Project Overview
 
@@ -291,7 +291,7 @@ The training process incorporated several advanced techniques:
 
 ### 🔍 Model Comparison
 
-![Model Comparison](https://raw.githubusercontent.com/devang-bhardwaj/Celebal_Week_7_Assingment/main/images/model_comparison.jpg)
+![Model Comparison](https://raw.githubusercontent.com/devang-bhardwaj/Celebal_Week_4_Assingment/main/images/model_comparison.jpg)
 
 The deep learning approach (ResNet50) outperformed traditional machine learning methods in terms of all evaluation metrics. However, the traditional approaches offer these advantages:
 
