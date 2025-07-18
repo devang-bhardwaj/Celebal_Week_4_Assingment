@@ -385,7 +385,7 @@ Several directions for future enhancements include:
 ```
 Celebal_Week_7_Assingment/
 │
-├── plant-pathology-2020-resnet50.ipynb    # Deep learning approach notebook
+├── plant-pathology-dl-model-implementation.ipynb    # Deep learning approach notebook
 ├── plant-pathology-ml-models.ipynb        # Traditional ML approach notebook
 ├── README.md                              # Project overview & documentation
 ├── requirements.txt                       # Dependencies for the project
