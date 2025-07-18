@@ -396,9 +396,6 @@ Celebal_Week_7_Assingment/
     ├── plant_pathology_banner.jpg
     └── model_comparison.jpg
 ```
-```
-
----
 
 <p align="center">
   <i>Developed with ❤️ for apple trees and deep learning</i>
